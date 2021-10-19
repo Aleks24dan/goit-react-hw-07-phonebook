@@ -1,20 +1,20 @@
-import styled from '@emotion/styled';
+import styled from "@emotion/styled";
 
 export const Container = styled.div`
-  margin: 20px;
-
-  background: linear-gradient(45deg, rgb(160, 239, 240), rgb(8, 48, 140));
-  padding: 10px;
-  width: 700px;
-  box-shadow: 5px 6px 9px rgb(11, 93, 194);
-  border-radius: 8px;
-  text-align: center;
-`;
+margin: 20px;
+    margin: 20px;
+    background: linear-gradient(
+176deg
+, rgb(57 51 175), rgb(87, 66, 100));
+    padding: 10px;
+    width: 577px;
+    box-shadow: 3px 1px 10px rgb(24 24 24);
+    border-radius: 5px;
+    text-align: center;
+`
 export const TitleH1 = styled.h1`
-  font-style: italic;
-`;
+color:#d0cfc5;
+`
 
 export const TitleH2 = styled.h2`
-  font-style: italic;
-  margin-top: 46px;
-`;
+margin-top:45px;`

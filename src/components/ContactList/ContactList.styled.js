@@ -1,7 +1,6 @@
 import styled from "@emotion/styled";
 export const Span = styled.span`
 font-weight: 500;
-font-style: italic;
 font-size: 17px;
 `
 
@@ -20,13 +19,11 @@ padding-right:40px;
 `
 
 export const ContactItems = styled.li`
-
 list-style:none;
 display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 align-items: center;
 margin-bottom:5px;
-
 `
 
 
