@@ -2,28 +2,28 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Rosie Simpson",
-      "number": "459-12-56"
+      "name": "Tornado Joe",
+      "number": "559-12-86"
     },
     {
       "id": 2,
-      "name": "Hermione Kline",
-      "number": "443-89-12"
+      "name": "Mike Tyson",
+      "number": "453-89-02"
     },
     {
       "id": 3,
-      "name": "Annie Copeland",
-      "number": "227-91-26"
+      "name": "Tony Belwe",
+      "number": "337-91-46"
     },
     {
-      "id": 4,
-      "name": "Eden Clements",
-      "number": "645-17-79"
-    },
-    {
-      "name": "alaska",
-      "number": "12323565",
+      "name": "Angela Merkel",
+      "number": "12-32-35",
       "id": 5
+    },
+    {
+      "name": "Henrik Uelski",
+      "number": "334-456-556",
+      "id": 6
     }
   ]
 }
